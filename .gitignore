@@ -1,1 +1,5 @@
 bin/
+obj/project.nuget.cache
+obj/Debug/net6.0/apphost
+obj/Debug/net6.0/Calculadora.assets.cache
+obj/Debug/net6.0/Calculadora.GeneratedMSBuildEditorConfig.editorconfig
