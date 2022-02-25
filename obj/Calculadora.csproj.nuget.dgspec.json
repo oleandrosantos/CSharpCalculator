@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/carol/Documentos/CSharp/Calculadora/Calculadora.csproj": {}
+    "/home/leandro/Documentos/CSharp/CSharpCalculator/Calculadora.csproj": {}
   },
   "projects": {
-    "/home/carol/Documentos/CSharp/Calculadora/Calculadora.csproj": {
+    "/home/leandro/Documentos/CSharp/CSharpCalculator/Calculadora.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/carol/Documentos/CSharp/Calculadora/Calculadora.csproj",
+        "projectUniqueName": "/home/leandro/Documentos/CSharp/CSharpCalculator/Calculadora.csproj",
         "projectName": "Calculadora",
-        "projectPath": "/home/carol/Documentos/CSharp/Calculadora/Calculadora.csproj",
-        "packagesPath": "/home/carol/.nuget/packages/",
-        "outputPath": "/home/carol/Documentos/CSharp/Calculadora/obj/",
+        "projectPath": "/home/leandro/Documentos/CSharp/CSharpCalculator/Calculadora.csproj",
+        "packagesPath": "/home/leandro/.nuget/packages/",
+        "outputPath": "/home/leandro/Documentos/CSharp/CSharpCalculator/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/carol/.nuget/NuGet/NuGet.Config"
+          "/home/leandro/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.102/RuntimeIdentifierGraph.json"
         }
       }
     }
