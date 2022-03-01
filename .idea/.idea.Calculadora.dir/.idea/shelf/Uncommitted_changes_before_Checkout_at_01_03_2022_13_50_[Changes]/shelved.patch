@@ -1,0 +1,74 @@
+Index: obj/Calculadora.csproj.nuget.dgspec.json
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>{\n  \"format\": 1,\n  \"restore\": {\n    \"/home/leandro/Documentos/CSharp/CSharpCalculator/Calculadora.csproj\": {}\n  },\n  \"projects\": {\n    \"/home/leandro/Documentos/CSharp/CSharpCalculator/Calculadora.csproj\": {\n      \"version\": \"1.0.0\",\n      \"restore\": {\n        \"projectUniqueName\": \"/home/leandro/Documentos/CSharp/CSharpCalculator/Calculadora.csproj\",\n        \"projectName\": \"Calculadora\",\n        \"projectPath\": \"/home/leandro/Documentos/CSharp/CSharpCalculator/Calculadora.csproj\",\n        \"packagesPath\": \"/home/leandro/.nuget/packages/\",\n        \"outputPath\": \"/home/leandro/Documentos/CSharp/CSharpCalculator/obj/\",\n        \"projectStyle\": \"PackageReference\",\n        \"configFilePaths\": [\n          \"/home/leandro/.nuget/NuGet/NuGet.Config\"\n        ],\n        \"originalTargetFrameworks\": [\n          \"net6.0\"\n        ],\n        \"sources\": {\n          \"https://api.nuget.org/v3/index.json\": {}\n        },\n        \"frameworks\": {\n          \"net6.0\": {\n            \"targetAlias\": \"net6.0\",\n            \"projectReferences\": {}\n          }\n        },\n        \"warningProperties\": {\n          \"warnAsError\": [\n            \"NU1605\"\n          ]\n        }\n      },\n      \"frameworks\": {\n        \"net6.0\": {\n          \"targetAlias\": \"net6.0\",\n          \"imports\": [\n            \"net461\",\n            \"net462\",\n            \"net47\",\n            \"net471\",\n            \"net472\",\n            \"net48\"\n          ],\n          \"assetTargetFallback\": true,\n          \"warn\": true,\n          \"frameworkReferences\": {\n            \"Microsoft.NETCore.App\": {\n              \"privateAssets\": \"all\"\n            }\n          },\n          \"runtimeIdentifierGraphPath\": \"/usr/share/dotnet/sdk/6.0.102/RuntimeIdentifierGraph.json\"\n        }\n      }\n    }\n  }\n}
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/obj/Calculadora.csproj.nuget.dgspec.json b/obj/Calculadora.csproj.nuget.dgspec.json
+--- a/obj/Calculadora.csproj.nuget.dgspec.json	(revision 49e78dde6aa072863f7c8ac90e6befafbbbb7cfd)
++++ b/obj/Calculadora.csproj.nuget.dgspec.json	(date 1646153384553)
+@@ -1,17 +1,17 @@
+ {
+   "format": 1,
+   "restore": {
+-    "/home/leandro/Documentos/CSharp/CSharpCalculator/Calculadora.csproj": {}
++    "/home/leandro/RiderProjects/CSharpCalculator/Calculadora.csproj": {}
+   },
+   "projects": {
+-    "/home/leandro/Documentos/CSharp/CSharpCalculator/Calculadora.csproj": {
++    "/home/leandro/RiderProjects/CSharpCalculator/Calculadora.csproj": {
+       "version": "1.0.0",
+       "restore": {
+-        "projectUniqueName": "/home/leandro/Documentos/CSharp/CSharpCalculator/Calculadora.csproj",
++        "projectUniqueName": "/home/leandro/RiderProjects/CSharpCalculator/Calculadora.csproj",
+         "projectName": "Calculadora",
+-        "projectPath": "/home/leandro/Documentos/CSharp/CSharpCalculator/Calculadora.csproj",
++        "projectPath": "/home/leandro/RiderProjects/CSharpCalculator/Calculadora.csproj",
+         "packagesPath": "/home/leandro/.nuget/packages/",
+-        "outputPath": "/home/leandro/Documentos/CSharp/CSharpCalculator/obj/",
++        "outputPath": "/home/leandro/RiderProjects/CSharpCalculator/obj/",
+         "projectStyle": "PackageReference",
+         "configFilePaths": [
+           "/home/leandro/.nuget/NuGet/NuGet.Config"
+Index: obj/project.assets.json
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>{\n  \"version\": 3,\n  \"targets\": {\n    \"net6.0\": {}\n  },\n  \"libraries\": {},\n  \"projectFileDependencyGroups\": {\n    \"net6.0\": []\n  },\n  \"packageFolders\": {\n    \"/home/leandro/.nuget/packages/\": {}\n  },\n  \"project\": {\n    \"version\": \"1.0.0\",\n    \"restore\": {\n      \"projectUniqueName\": \"/home/leandro/Documentos/CSharp/CSharpCalculator/Calculadora.csproj\",\n      \"projectName\": \"Calculadora\",\n      \"projectPath\": \"/home/leandro/Documentos/CSharp/CSharpCalculator/Calculadora.csproj\",\n      \"packagesPath\": \"/home/leandro/.nuget/packages/\",\n      \"outputPath\": \"/home/leandro/Documentos/CSharp/CSharpCalculator/obj/\",\n      \"projectStyle\": \"PackageReference\",\n      \"configFilePaths\": [\n        \"/home/leandro/.nuget/NuGet/NuGet.Config\"\n      ],\n      \"originalTargetFrameworks\": [\n        \"net6.0\"\n      ],\n      \"sources\": {\n        \"https://api.nuget.org/v3/index.json\": {}\n      },\n      \"frameworks\": {\n        \"net6.0\": {\n          \"targetAlias\": \"net6.0\",\n          \"projectReferences\": {}\n        }\n      },\n      \"warningProperties\": {\n        \"warnAsError\": [\n          \"NU1605\"\n        ]\n      }\n    },\n    \"frameworks\": {\n      \"net6.0\": {\n        \"targetAlias\": \"net6.0\",\n        \"imports\": [\n          \"net461\",\n          \"net462\",\n          \"net47\",\n          \"net471\",\n          \"net472\",\n          \"net48\"\n        ],\n        \"assetTargetFallback\": true,\n        \"warn\": true,\n        \"frameworkReferences\": {\n          \"Microsoft.NETCore.App\": {\n            \"privateAssets\": \"all\"\n          }\n        },\n        \"runtimeIdentifierGraphPath\": \"/usr/share/dotnet/sdk/6.0.102/RuntimeIdentifierGraph.json\"\n      }\n    }\n  }\n}
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/obj/project.assets.json b/obj/project.assets.json
+--- a/obj/project.assets.json	(revision 49e78dde6aa072863f7c8ac90e6befafbbbb7cfd)
++++ b/obj/project.assets.json	(date 1646153384537)
+@@ -13,11 +13,11 @@
+   "project": {
+     "version": "1.0.0",
+     "restore": {
+-      "projectUniqueName": "/home/leandro/Documentos/CSharp/CSharpCalculator/Calculadora.csproj",
++      "projectUniqueName": "/home/leandro/RiderProjects/CSharpCalculator/Calculadora.csproj",
+       "projectName": "Calculadora",
+-      "projectPath": "/home/leandro/Documentos/CSharp/CSharpCalculator/Calculadora.csproj",
++      "projectPath": "/home/leandro/RiderProjects/CSharpCalculator/Calculadora.csproj",
+       "packagesPath": "/home/leandro/.nuget/packages/",
+-      "outputPath": "/home/leandro/Documentos/CSharp/CSharpCalculator/obj/",
++      "outputPath": "/home/leandro/RiderProjects/CSharpCalculator/obj/",
+       "projectStyle": "PackageReference",
+       "configFilePaths": [
+         "/home/leandro/.nuget/NuGet/NuGet.Config"
+Index: obj/Debug/net6.0/Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>is_global = true\nbuild_property.TargetFramework = net6.0\nbuild_property.TargetPlatformMinVersion = \nbuild_property.UsingMicrosoftNETSdkWeb = \nbuild_property.ProjectTypeGuids = \nbuild_property.InvariantGlobalization = \nbuild_property.PlatformNeutralAssembly = \nbuild_property._SupportedPlatformList = Linux,macOS,Windows\nbuild_property.RootNamespace = Calculadora\nbuild_property.ProjectDir = /home/carol/Documentos/CSharp/Calculadora/\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/obj/Debug/net6.0/Calculadora.GeneratedMSBuildEditorConfig.editorconfig b/obj/Debug/net6.0/Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+--- a/obj/Debug/net6.0/Calculadora.GeneratedMSBuildEditorConfig.editorconfig	(revision 49e78dde6aa072863f7c8ac90e6befafbbbb7cfd)
++++ b/obj/Debug/net6.0/Calculadora.GeneratedMSBuildEditorConfig.editorconfig	(date 1646153368249)
+@@ -7,4 +7,4 @@
+ build_property.PlatformNeutralAssembly = 
+ build_property._SupportedPlatformList = Linux,macOS,Windows
+ build_property.RootNamespace = Calculadora
+-build_property.ProjectDir = /home/carol/Documentos/CSharp/Calculadora/
++build_property.ProjectDir = /home/leandro/RiderProjects/CSharpCalculator/
