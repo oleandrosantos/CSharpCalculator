@@ -2,9 +2,9 @@ using System;
 using System.Collections;
 using System.Globalization;
 
-namespace Classes
+namespace CalculadoraClasse
 {
-  class Calculadora
+  public static class Calculadora
   {
     public static double somarNumeros(List<double> numero)
     {

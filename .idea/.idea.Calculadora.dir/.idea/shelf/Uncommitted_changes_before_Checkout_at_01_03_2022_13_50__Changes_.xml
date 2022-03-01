@@ -1,0 +1,14 @@
+<changelist name="Uncommitted_changes_before_Checkout_at_01_03_2022_13_50_[Changes]" date="1646153404991" recycled="true" deleted="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/.idea.Calculadora.dir/.idea/shelf/Uncommitted_changes_before_Checkout_at_01_03_2022_13_50_[Changes]/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Checkout at 01/03/2022 13:50 [Changes]" />
+  <binary>
+    <option name="BEFORE_PATH" value="obj/project.nuget.cache" />
+    <option name="AFTER_PATH" value="obj/project.nuget.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Calculadora.dir/.idea/shelf/Uncommitted_changes_before_Checkout_at_01_03_2022_13_50_[Changes]/project.nuget.cache" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="obj/Debug/net6.0/Calculadora.assets.cache" />
+    <option name="AFTER_PATH" value="obj/Debug/net6.0/Calculadora.assets.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Calculadora.dir/.idea/shelf/Uncommitted_changes_before_Checkout_at_01_03_2022_13_50_[Changes]/Calculadora.assets.cache" />
+  </binary>
+</changelist>

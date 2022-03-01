@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/leandro/Documentos/CSharp/CSharpCalculator/Calculadora.csproj",
+      "projectUniqueName": "/home/leandro/RiderProjects/CSharpCalculator/Calculadora/Calculadora.csproj",
       "projectName": "Calculadora",
-      "projectPath": "/home/leandro/Documentos/CSharp/CSharpCalculator/Calculadora.csproj",
+      "projectPath": "/home/leandro/RiderProjects/CSharpCalculator/Calculadora/Calculadora.csproj",
       "packagesPath": "/home/leandro/.nuget/packages/",
-      "outputPath": "/home/leandro/Documentos/CSharp/CSharpCalculator/obj/",
+      "outputPath": "/home/leandro/RiderProjects/CSharpCalculator/Calculadora/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/leandro/.nuget/NuGet/NuGet.Config"
